@@ -12,7 +12,7 @@ pygame.init()
 #Initializing the display window
 size = (800,600)
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption("pong")
+pygame.display.set_caption("Bouncy Ball Game")
 
 #Starting coordinates of the paddle
 rect_x = 400
